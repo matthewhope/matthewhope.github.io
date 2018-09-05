@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "vquential_webvr",
+"productName": "Unity-WebVR-Export",
 "dataUrl": "vquential_webvr.data.unityweb",
 "wasmCodeUrl": "vquential_webvr.wasm.code.unityweb",
 "wasmFrameworkUrl": "vquential_webvr.wasm.framework.unityweb",
